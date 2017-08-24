@@ -5,8 +5,7 @@
 "Version":{
 "Name":"1.0.1",
 "Title":"Do you want to update the latest version?",
-"Content":"- Fixed bugs
-- Add tutorial",
+"Content":"- Add tutorial",
 "Link":"market://details?id=jkg.pushing.box"
 },
 "MoreGames":[
