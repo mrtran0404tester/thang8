@@ -8,8 +8,8 @@
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "linkUpdate":"market://details?id=jkg.pushing.box",
-    "linkmoregame":"https://play.google.com/store/apps/developer?id=Tien+Tran+Pro"
+    "linkUpdate":"market://details?id=dragon.hero.battle.fight",
+    "linkmoregame":"https://play.google.com/store/apps/dev?id=6699218893974513059"
   }
 ,
 "game01":{
