@@ -8,20 +8,20 @@
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "linkUpdate":"https://itunes.apple.com/us/app/stickman-warriors-heroes/id1178276983?mt=8",
-    "linkmoregame":"https://itunes.apple.com/us/developer/le-van-trong/id1178276982"
+    "linkUpdate":"https://play.google.com/store/apps/details?id=physicsball.newtonball.braingame",
+    "linkmoregame":"https://play.google.com/store/apps/dev?id=6699218893974513059"
   }
 ,
 "game01":{
-  "GameName": "Sokoban Pushing Box",
-  "LinkGame": "market://details?id=jkg.pushing.box",
-  "LinkIcon": "https://lh3.googleusercontent.com/yfvWkvOE6-rSaJ4xKH5buGAQvmN7MFC1sIpilTbHD87s53y9qmu3Qwx8NVqJ3g9cGCg=w150"
+  "GameName": "Stickman Flatout",
+  "LinkGame": "market://details?id=stickmanflatout.destruction.gameoffline",
+  "LinkIcon": "https://lh3.googleusercontent.com/6gyC1PeiXPfS9W8KhJTh4WLSq3GXqiq26gwHh2Hu22esRdXTP8jEg930Ka8l1kW1zcg=s180"
 }
 ,
 "game02":{
-  "GameName": "Brain It On",
-  "LinkGame": "market://details?id=com.brain.physicspuzzles",
-  "LinkIcon": "https://lh3.googleusercontent.com/ORaQlX0DN_vDpHXDrPlc-fhZNLiiMGSMSwOUBPDo-vprg4BUZm3GpZOqvXl8_848dA=w150"
+  "GameName": "Stickman Fight",
+  "LinkGame": "market://details?id=stickman.fight.epic.battle",
+  "LinkIcon": "https://lh3.googleusercontent.com/SZxRk3aJ6wrHDqtB0lNJH2ry02qihY7NFEX1iSbvEvxw0SWrojt5mSx9_-W9z19sjvgO=s180"
 }
 ,
 "game03":{
